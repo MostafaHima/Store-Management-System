@@ -1,0 +1,81 @@
+[
+    {
+        "product_id": 1,
+        "name": "Laptop",
+        "category": "Electronics",
+        "price": 999.99,
+        "stock_quantity": 20
+    },
+
+    {
+        "product_id": 2,
+        "name": "Smartphone",
+        "category": "Electronics",
+        "price": 499.99,
+        "stock_quantity": 100
+    },
+
+    {
+        "product_id": 3,
+        "name": "Headphones",
+        "category": "Electronics",
+        "price": 79.99,
+        "stock_quantity": 150},
+
+    {
+        "product_id": 4,
+        "name": "Office Chair",
+        "category": "Furniture",
+        "price": 150.00,
+        "stock_quantity": 30
+    },
+
+    {
+        "product_id": 5,
+        "name": "Coffee Maker",
+        "category": "Appliances",
+        "price": 89.99,
+        "stock_quantity": 40
+    },
+
+    {
+        "product_id": 6,
+        "name": "Running Shoes",
+        "category": "Apparel",
+        "price": 120.00,
+        "stock_quantity": 70
+    },
+
+    {
+        "product_id": 7,
+        "name": "Backpack",
+        "category": "Apparel",
+        "price": 60.00,
+        "stock_quantity": 80
+    },
+
+    {
+        "product_id": 8,
+        "name": "Novel Book",
+        "category": "Books",
+        "price": 15.99,
+        "stock_quantity": 200
+    },
+
+    {
+        "product_id": 9,
+        "name": "Gaming Console",
+        "category": "Electronics",
+        "price": 299.99,
+        "stock_quantity": 25
+    },
+
+    {
+        "product_id": 10,
+        "name": "Desk Lamp",
+        "category": "Furniture",
+        "price": 25.00,
+        "stock_quantity": 60
+    }
+
+]
