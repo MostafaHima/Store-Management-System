@@ -16,7 +16,7 @@ This is a simple Python-based store management system that allows users to manag
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/store-management-system.git
+   git clone https://github.com/MostafaHima/store-management-system.git
    ```
 2. Install the required libraries:
   ```bash
